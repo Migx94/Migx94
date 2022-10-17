@@ -1,6 +1,7 @@
 # Hey there! 👋
 
-### I'm a former comediant that fell in love with programming.
+### I'm a former comedian that fell in love with programming.
+If you are looking for a Junior FullStack Developer that is passionate and as the courage to face any challenge (or bug :) ), send me a message because I am what you are looking for!
 
 <!--
 miguelvaladas/miguelvaladas is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
